@@ -1,0 +1,27 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#ffffff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#f4511e" id="svg_1" height="78.999998" width="85" y="269.499998" x="329.5" stroke-width="1.5" fill="#f4511e"/>
+  <path id="svg_4" stroke-width="1.5" stroke="#000" fill="#000000"/>
+  <line stroke="#f4511e" stroke-linecap="null" stroke-linejoin="null" id="svg_6" y2="346.500002" x2="362.5" y1="48.499978" x1="362.5" stroke-width="5" fill="none"/>
+  <line stroke="#f4511e" stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="344.5" x2="236.499996" y1="344.5" x1="329.5" stroke-width="5" fill="none"/>
+  <path id="svg_19" d="m357,60" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="5" stroke="#000" fill="none"/>
+  <path id="svg_21" d="m111.5,239.5" opacity="0.5" stroke-width="5" stroke="#f4511e" fill="#f4511e"/>
+  <path stroke="#f4511e" id="svg_23" d="m240.74907,344.500004c-109.22248,-7.807377 -91.17162,-254.927012 120.25093,-295.500004" stroke-width="5" fill="#f4511e"/>
+  <rect stroke="#f4511e" id="svg_24" height="15" width="93" y="144.5" x="154.5" stroke-width="5" fill="#f4511e"/>
+  <rect height="0" stroke="#f4511e" id="svg_25" width="1" y="220.5" x="93.5" stroke-width="5" fill="#f4511e"/>
+  <rect stroke="#f4511e" id="svg_26" height="15" width="93" y="144.5" x="154.5" stroke-width="5" fill="#f4511e"/>
+  <rect id="svg_27" height="11" width="72" y="170.5" x="170.5" stroke-width="5" stroke="#f4511e" fill="#f4511e"/>
+  <path stroke="#f4511e" id="svg_30" d="m274.5,266.5c0,0 88.000005,0 88.000005,0c0,0 -1.035294,-219.000012 -1.035294,-219.000012c0,0 -86.964711,219.000012 -86.964711,219.000012z" stroke-width="5" fill="#f4511e"/>
+  <path id="svg_31" stroke-opacity="null" stroke-width="5" stroke="#000" fill="none"/>
+  <path stroke="#f4511e" id="svg_32" d="m276.598266,259.571896l56.263006,-0.571895c0.546243,0.571895 1.638728,87.500002 1.638728,87.500002c0,0 -93.953757,-3.431373 -94.5,-4.003268l36.598266,-82.924839z" stroke-width="5" fill="#f4511e"/>
+ </g>
+</svg>
